@@ -1,0 +1,7 @@
+TO DO
+-----
+- Get rid of the packages that get displayed
+- Have the uninstaller file get created in the JDK subdirectory
+- Find out what the proper naming convention shall be for the JDK / JRE subdirectories
+- Add 32 bit installer case
+- Add code that extracts the version numbers from the ZIP file

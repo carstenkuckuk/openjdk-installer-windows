@@ -1,0 +1,1 @@
+The ZIP file with the binaries from the AdoptOpenJDK project need to be placed in this directory

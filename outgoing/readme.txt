@@ -1,0 +1,1 @@
+This is the directory where our scripts will place the installer that CMake/CPakc/NSIS generates.
