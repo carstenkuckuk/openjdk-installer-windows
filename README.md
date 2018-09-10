@@ -11,7 +11,7 @@ for the JDK and the JRE that can be used by end uses, but there is none yet. So 
 
 ## Preconditions
 These scripts here run under Windows 8.1, 64 Bit. You need to install [CMake](https://cmake.org/download/) and
-[NSIS](http://nsis.sourceforge.net/Download). This is what I have 
+[NSIS](http://nsis.sourceforge.net/Download). This is (NSIS 3.0b2, CMake 3.10.3, VS2010) what I have 
 installed on my development computer at home, and I know that it works there. I expect this to run on other
 Windows versions, with other versions of NSIS and CMake, too, but haven't tested it. 
 
