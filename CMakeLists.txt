@@ -8,7 +8,7 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 
 # I'm not sure if CMake/CPack works if there is nothing to build, so I just create a Hello World
 # C++ project, compile it, but then don't install it. 
-add_executable(HelloCppWorld hello.cpp)
+add_executable(HelloCppWorld src/hello.cpp)
 #install(
 #	TARGETS HelloCppWorld
 #	RUNTIME

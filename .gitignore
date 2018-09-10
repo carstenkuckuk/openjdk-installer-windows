@@ -1,0 +1,8 @@
+# Ignore ./incoming, ./outgoing and ./working, except for their readme.txt
+incoming
+!incoming/readme.txt
+
+outgoing
+!outgoing/readme.txt
+
+working
